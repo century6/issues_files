@@ -1,0 +1,576 @@
+[H[J[?25h[?0c[?1000l[?1002l[?1003l[?1006l[?1005l[m[?25h[?8c[?25h[?0c[?1003l[?1006l[?2004l[1;1H[1;48r[2;1H[?25l[?1c[HStarting installer, one moment...[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[30m[42m
+[anaconda]1:main* 2:shell  3:log  4:storage-log  5:program-log                          [34m<'echo -n "Switch tab: Alt+Tab "' not re[m[2;1H[?25h[?0c[m[?25h[?8c[?25h[?0c[?1003l[?1006l[?2004l[1;1H[1;48r[2;1H[?25l[?1c[HStarting installer, one moment...[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[30m[42m
+[anaconda]1:main* 2:shell  3:log  4:storage-log  5:program-log                                              [34mSwitch tab: Alt+Tab [m[2;1H[?25h[?0canaconda 33.19-1.fc33 for fedora 33 started.
+ * installation log files are stored in /tmp during the installation
+ * shell is available on TTY2
+ * if the graphical installation interface fails to start, try again with the
+   inst.text bootoption to start text installation
+ * when reporting a bug add logs from /tmp as separate text/plain attachments
+================================================================================
+================================================================================
+
+1) Start VNC
+2) Use text mode[14;1HPlease make a selection from the above ['c' to continue, 'q' to quit, 'r' to
+refresh]: ghj[H[J[?25h[?0c[?1000l[?1002l[?1003l[?1006l[?1005l[m[?25h[?8c[?25h[?0c[?1003l[?1006l[?2004l[1;1H[1;48r[15;14H[?25l[?1c[HStarting installer, one moment...[K
+anaconda 33.19-1.fc33 for fedora 33 started.[K
+ * installation log files are stored in /tmp during the installation[K
+ * shell is available on TTY2[K
+ * if the graphical installation interface fails to start, try again with the[K
+   inst.text bootoption to start text installation[K
+ * when reporting a bug add logs from /tmp as separate text/plain attachments[K
+================================================================================[K
+================================================================================[K
+[K
+1) Start VNC[K
+2) Use text mode[K
+[K
+Please make a selection from the above ['c' to continue, 'q' to quit, 'r' to[K
+refresh]: ghj[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[30m[42m
+[anaconda]1:main* 2:shell  3:log  4:storage-log  5:program-log                          [34m<'echo -n "Switch tab: Alt+Tab "' not re[m[15;14H[?25h[?0c[m[?25h[?8c[?25h[?0c[?1003l[?1006l[?2004l[1;1H[1;48r[15;14H[?25l[?1c[HStarting installer, one moment...[K
+anaconda 33.19-1.fc33 for fedora 33 started.[K
+ * installation log files are stored in /tmp during the installation[K
+ * shell is available on TTY2[K
+ * if the graphical installation interface fails to start, try again with the[K
+   inst.text bootoption to start text installation[K
+ * when reporting a bug add logs from /tmp as separate text/plain attachments[K
+================================================================================[K
+================================================================================[K
+[K
+1) Start VNC[K
+2) Use text mode[K
+[K
+Please make a selection from the above ['c' to continue, 'q' to quit, 'r' to[K
+refresh]: ghj[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[30m[42m
+[anaconda]1:main* 2:shell  3:log  4:storage-log  5:program-log                                              [34mSwitch tab: Alt+Tab [m[15;14H[?25h[?0c[H[J[?25h[?0c[?1000l[?1002l[?1003l[?1006l[?1005l[m[?25h[?8c[?25h[?0c[?1003l[?1006l[?2004l[1;1H[1;48r[15;14H[?25l[?1c[HStarting installer, one moment...[K
+anaconda 33.19-1.fc33 for fedora 33 started.[K
+ * installation log files are stored in /tmp during the installation[K
+ * shell is available on TTY2[K
+ * if the graphical installation interface fails to start, try again with the[K
+   inst.text bootoption to start text installation[K
+ * when reporting a bug add logs from /tmp as separate text/plain attachments[K
+================================================================================[K
+================================================================================[K
+[K
+1) Start VNC[K
+2) Use text mode[K
+[K
+Please make a selection from the above ['c' to continue, 'q' to quit, 'r' to[K
+refresh]: ghj[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[30m[42m
+[anaconda]1:main* 2:shell  3:log  4:storage-log  5:program-log                          [34m<'echo -n "Switch tab: Alt+Tab "' not re[m[15;14H[?25h[?0c[m[?25h[?8c[?25h[?0c[?1003l[?1006l[?2004l[1;1H[1;48r[15;14H[?25l[?1c[HStarting installer, one moment...[K
+anaconda 33.19-1.fc33 for fedora 33 started.[K
+ * installation log files are stored in /tmp during the installation[K
+ * shell is available on TTY2[K
+ * if the graphical installation interface fails to start, try again with the[K
+   inst.text bootoption to start text installation[K
+ * when reporting a bug add logs from /tmp as separate text/plain attachments[K
+================================================================================[K
+================================================================================[K
+[K
+1) Start VNC[K
+2) Use text mode[K
+[K
+Please make a selection from the above ['c' to continue, 'q' to quit, 'r' to[K
+refresh]: ghj[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[30m[42m
+[anaconda]1:main* 2:shell  3:log  4:storage-log  5:program-log                          [34m<'echo -n "Switch tab: Alt+Tab "' not re[m[15;14H[?25h[?0c[?25l[?1c[30m[42m[48;1H[anaconda]1:main* 2:shell  3:log  4:storage-log  5:program-log                                              [34mSwitch tab: Alt+Tab [m[15;14H[?25h[?0c[H[J[?25h[?0c[?1000l[?1002l[?1003l[?1006l[?1005l[m[?25h[?8c[?25h[?0c[?1003l[?1006l[?2004l[1;1H[1;48r[15;14H[?25l[?1c[HStarting installer, one moment...[K
+anaconda 33.19-1.fc33 for fedora 33 started.[K
+ * installation log files are stored in /tmp during the installation[K
+ * shell is available on TTY2[K
+ * if the graphical installation interface fails to start, try again with the[K
+   inst.text bootoption to start text installation[K
+ * when reporting a bug add logs from /tmp as separate text/plain attachments[K
+================================================================================[K
+================================================================================[K
+[K
+1) Start VNC[K
+2) Use text mode[K
+[K
+Please make a selection from the above ['c' to continue, 'q' to quit, 'r' to[K
+refresh]: ghj[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[30m[42m
+[anaconda]1:main* 2:shell  3:log  4:storage-log  5:program-log                          [34m<'echo -n "Switch tab: Alt+Tab "' not re[m[15;14H[?25h[?0c[m[?25h[?8c[?25h[?0c[?1003l[?1006l[?2004l[1;1H[1;48r[15;14H[?25l[?1c[HStarting installer, one moment...[K
+anaconda 33.19-1.fc33 for fedora 33 started.[K
+ * installation log files are stored in /tmp during the installation[K
+ * shell is available on TTY2[K
+ * if the graphical installation interface fails to start, try again with the[K
+   inst.text bootoption to start text installation[K
+ * when reporting a bug add logs from /tmp as separate text/plain attachments[K
+================================================================================[K
+================================================================================[K
+[K
+1) Start VNC[K
+2) Use text mode[K
+[K
+Please make a selection from the above ['c' to continue, 'q' to quit, 'r' to[K
+refresh]: ghj[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[30m[42m
+[anaconda]1:main* 2:shell  3:log  4:storage-log  5:program-log                                              [34mSwitch tab: Alt+Tab [m[15;14H[?25h[?0c[H[J[?25h[?0c[?1000l[?1002l[?1003l[?1006l[?1005l[m[?25h[?8c[?25h[?0c[?1003l[?1006l[?2004l[1;1H[1;48r[15;14H[?25l[?1c[HStarting installer, one moment...[K
+anaconda 33.19-1.fc33 for fedora 33 started.[K
+ * installation log files are stored in /tmp during the installation[K
+ * shell is available on TTY2[K
+ * if the graphical installation interface fails to start, try again with the[K
+   inst.text bootoption to start text installation[K
+ * when reporting a bug add logs from /tmp as separate text/plain attachments[K
+================================================================================[K
+================================================================================[K
+[K
+1) Start VNC[K
+2) Use text mode[K
+[K
+Please make a selection from the above ['c' to continue, 'q' to quit, 'r' to[K
+refresh]: ghj[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[30m[42m
+[anaconda]1:main* 2:shell  3:log  4:storage-log  5:program-log                          [34m<'echo -n "Switch tab: Alt+Tab "' not re[m[15;14H[?25h[?0c[m[?25h[?8c[?25h[?0c[?1003l[?1006l[?2004l[1;1H[1;48r[15;14H[?25l[?1c[HStarting installer, one moment...[K
+anaconda 33.19-1.fc33 for fedora 33 started.[K
+ * installation log files are stored in /tmp during the installation[K
+ * shell is available on TTY2[K
+ * if the graphical installation interface fails to start, try again with the[K
+   inst.text bootoption to start text installation[K
+ * when reporting a bug add logs from /tmp as separate text/plain attachments[K
+================================================================================[K
+================================================================================[K
+[K
+1) Start VNC[K
+2) Use text mode[K
+[K
+Please make a selection from the above ['c' to continue, 'q' to quit, 'r' to[K
+refresh]: ghj[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[30m[42m
+[anaconda]1:main* 2:shell  3:log  4:storage-log  5:program-log                                              [34mSwitch tab: Alt+Tab [m[15;14H[?25h[?0c[H[J[?25h[?0c[?1000l[?1002l[?1003l[?1006l[?1005l[m[?25h[?8c[?25h[?0c[?1003l[?1006l[?2004l[1;1H[1;48r[15;14H[?25l[?1c[HStarting installer, one moment...[K
+anaconda 33.19-1.fc33 for fedora 33 started.[K
+ * installation log files are stored in /tmp during the installation[K
+ * shell is available on TTY2[K
+ * if the graphical installation interface fails to start, try again with the[K
+   inst.text bootoption to start text installation[K
+ * when reporting a bug add logs from /tmp as separate text/plain attachments[K
+================================================================================[K
+================================================================================[K
+[K
+1) Start VNC[K
+2) Use text mode[K
+[K
+Please make a selection from the above ['c' to continue, 'q' to quit, 'r' to[K
+refresh]: ghj[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[30m[42m
+[anaconda]1:main* 2:shell  3:log  4:storage-log  5:program-log                          [34m<'echo -n "Switch tab: Alt+Tab "' not re[m[15;14H[?25h[?0c[m[?25h[?8c[?25h[?0c[?1003l[?1006l[?2004l[1;1H[1;48r[?25l[?1c[1;1HStarting installer, one moment...[K
+anaconda 33.19-1.fc33 for fedora 33 started.[K
+ * installation log files are stored in /tmp during the installation[K
+ * shell is available on TTY2[K
+ * if the graphical installation interface fails to start, try again with the[K
+   inst.text bootoption to start text installation[K
+ * when reporting a bug add logs from /tmp as separate text/plain attachments[K
+================================================================================[K
+================================================================================[K
+[K
+1) Start VNC[K
+2) Use text mode[K
+[K
+Please make a selection from the above ['c' to continue, 'q' to quit, 'r' to[K
+refresh]: ghj[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[30m[42m
+[anaconda]1:main* 2:shell  3:log  4:storage-log  5:program-log                          [34m<'echo -n "Switch tab: Alt+Tab "' not re[m[15;14H[?25h[?0c[?25l[?1c[30m[42m[48;1H[anaconda]1:main* 2:shell  3:log  4:storage-log  5:program-log                                              [34mSwitch tab: Alt+Tab [m[15;14H[?25h[?0c

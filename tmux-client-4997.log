@@ -1,0 +1,40 @@
+1596119471.493574 client started (4997): version 3.1, socket /tmp/tmux-0/default, protocol 8
+1596119471.493641 on Linux 4.19.128-2006.1.0.0038.fc33.aarch64 #1 SMP Mon Jul 13 13:11:08 UTC 2020; libevent 2.1.11-stable (poll)
+1596119471.493661 socket is /tmp/tmux-0/default
+1596119471.493689 trying connect
+1596119471.493788 connect failed: Connection refused
+1596119471.493803 lock file is /tmp/tmux-0/default.lock
+1596119471.494058 flock succeeded
+1596119471.494065 got lock (6)
+1596119471.494086 trying connect
+1596119471.494100 connect failed: Connection refused
+1596119471.494722 add peer 0xaaaec850eaf0: 7 ((nil))
+1596119471.495172 sending message 100 to peer 0xaaaec850eaf0 (4 bytes)
+1596119471.495189 sending message 101 to peer 0xaaaec850eaf0 (6 bytes)
+1596119471.495197 sending message 102 to peer 0xaaaec850eaf0 (10 bytes)
+1596119471.495204 sending message 108 to peer 0xaaaec850eaf0 (6 bytes)
+1596119471.495213 sending message 104 to peer 0xaaaec850eaf0 (0 bytes)
+1596119471.495222 sending message 107 to peer 0xaaaec850eaf0 (4 bytes)
+1596119471.495230 sending message 105 to peer 0xaaaec850eaf0 (23 bytes)
+1596119471.495244 sending message 105 to peer 0xaaaec850eaf0 (19 bytes)
+1596119471.495255 sending message 105 to peer 0xaaaec850eaf0 (14 bytes)
+1596119471.495262 sending message 105 to peer 0xaaaec850eaf0 (10 bytes)
+1596119471.495270 sending message 105 to peer 0xaaaec850eaf0 (13 bytes)
+1596119471.495277 sending message 105 to peer 0xaaaec850eaf0 (12 bytes)
+1596119471.495284 sending message 105 to peer 0xaaaec850eaf0 (51 bytes)
+1596119471.495291 sending message 105 to peer 0xaaaec850eaf0 (13 bytes)
+1596119471.495299 sending message 105 to peer 0xaaaec850eaf0 (47 bytes)
+1596119471.495306 sending message 105 to peer 0xaaaec850eaf0 (11 bytes)
+1596119471.495315 sending message 105 to peer 0xaaaec850eaf0 (10 bytes)
+1596119471.495361 sending message 105 to peer 0xaaaec850eaf0 (8 bytes)
+1596119471.495369 sending message 105 to peer 0xaaaec850eaf0 (23 bytes)
+1596119471.495377 sending message 105 to peer 0xaaaec850eaf0 (109 bytes)
+1596119471.495384 sending message 105 to peer 0xaaaec850eaf0 (117 bytes)
+1596119471.495392 sending message 105 to peer 0xaaaec850eaf0 (26 bytes)
+1596119471.495399 sending message 105 to peer 0xaaaec850eaf0 (18 bytes)
+1596119471.495407 sending message 106 to peer 0xaaaec850eaf0 (0 bytes)
+1596119471.495415 cmd_pack_argv: argv[0]=start
+1596119471.495422 sending message 200 to peer 0xaaaec850eaf0 (10 bytes)
+1596119471.495428 client loop enter
+1596119471.600629 peer 0xaaaec850eaf0 message 203
+1596119471.600687 client loop exit

@@ -1,0 +1,24 @@
+1596119471.681772 client started (5047): version 3.1, socket /tmp/tmux-0/default, protocol 8
+1596119471.681824 on Linux 4.19.128-2006.1.0.0038.fc33.aarch64 #1 SMP Mon Jul 13 13:11:08 UTC 2020; libevent 2.1.11-stable (poll)
+1596119471.681846 socket is /tmp/tmux-0/default
+1596119471.681876 trying connect
+1596119471.681965 add peer 0xaaaaf3e1cca0: 6 ((nil))
+1596119471.682036 sending message 100 to peer 0xaaaaf3e1cca0 (4 bytes)
+1596119471.682049 sending message 101 to peer 0xaaaaf3e1cca0 (6 bytes)
+1596119471.682056 sending message 102 to peer 0xaaaaf3e1cca0 (10 bytes)
+1596119471.682063 sending message 108 to peer 0xaaaaf3e1cca0 (6 bytes)
+1596119471.682071 sending message 104 to peer 0xaaaaf3e1cca0 (0 bytes)
+1596119471.682078 sending message 107 to peer 0xaaaaf3e1cca0 (4 bytes)
+1596119471.682085 sending message 105 to peer 0xaaaaf3e1cca0 (17 bytes)
+1596119471.682099 sending message 105 to peer 0xaaaaf3e1cca0 (55 bytes)
+1596119471.682107 sending message 105 to peer 0xaaaaf3e1cca0 (47 bytes)
+1596119471.682114 sending message 105 to peer 0xaaaaf3e1cca0 (11 bytes)
+1596119471.682121 sending message 106 to peer 0xaaaaf3e1cca0 (0 bytes)
+1596119471.682129 cmd_pack_argv: argv[0]=attach
+1596119471.682135 cmd_pack_argv: argv[1]=-t
+1596119471.682140 cmd_pack_argv: argv[2]=anaconda
+1596119471.682147 sending message 200 to peer 0xaaaaf3e1cca0 (23 bytes)
+1596119471.682153 client loop enter
+1596119471.690691 peer 0xaaaaf3e1cca0 message 207
+1596119471.690739 sending message 208 to peer 0xaaaaf3e1cca0 (0 bytes)
+1596119488.009208 client loop exit
